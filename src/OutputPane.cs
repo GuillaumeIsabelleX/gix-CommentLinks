@@ -13,7 +13,7 @@ namespace CommentLinks
 {
     public class OutputPane
     {
-        private static Guid dsPaneGuid = new Guid("61839752-500E-4B8C-AA1E-0F62BD71C741");
+        private static Guid dsPaneGuid = new Guid("61839752-500E-4B8C-AA1E-0F62BD71C741");//64D0F13A-51DD-47B4-8B4B-AB9A69B0CC55
 
         private static OutputPane instance;
 
