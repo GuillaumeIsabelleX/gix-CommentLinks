@@ -1,3 +1,14 @@
+# GIX
+
+## Intentions
+
+* Redist
+* Reproduce gixdekocomment (vscode comment deko)
+
+----
+ORIGINAL FORK DOC
+----
+
 # CommentLinks
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
